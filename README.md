@@ -1,7 +1,7 @@
 # Trace2Inv FSE 2024 Artifact
 
 ## For Developers:
-For developers who wants to build on top of our tool instead of just running and testing our artifact, we recommend going to our most up-to-date tool OpenTracer repo https://github.com/jeffchen006/OpenTracer. It is actively maintained and was serving as the core component of Trace2Inv.  
+For developers who wants to build on top of our tool instead of just running and testing our artifact, we recommend going to our most up-to-date tool OpenTracer repo https://github.com/jeffchen006/OpenTracer. It is actively maintained and was serving as the core component of Trace2Inv. The main purpose of this repo is simply to reproduce the experiment results in our FSE 2024 paper. 
 
 ## Overview
 
