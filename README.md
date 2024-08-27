@@ -1,5 +1,8 @@
 # Trace2Inv FSE 2024 Artifact
 
+## For Developers:
+For developers who wants to build on top of our tool instead of just running and testing our artifact, we recommend going to our most up-to-date tool OpenTracer repo https://github.com/jeffchen006/OpenTracer. It is actively maintained and was serving as the core component of Trace2Inv.  
+
 ## Overview
 
 This artifact accompanies the paper titled "Demystifying Invariant Effectiveness for Securing Smart Contracts" and provides the source code along with a complete replication package. The purpose of this artifact is to facilitate the validation and reproduction of the research results presented in the paper. Users can explore the methodologies, execute the provided scripts, and verify the findings by using this carefully prepared package.
