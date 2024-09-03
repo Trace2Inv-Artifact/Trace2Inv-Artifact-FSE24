@@ -96,10 +96,7 @@ python3.10 main.py AC
 
 If the above command executes successfully, the Docker image is functioning correctly. The output should display the following message:
 ```
-/usr/local/lib/python3.10/site-packages/eth_utils/network.py:61: UserWarning: Network 345 with name 'Yooldo Verse Mainnet' does not have a valid ChainId. eth-typing should be updated with the latest networks.
-  networks = initialize_network_objects()
-/usr/local/lib/python3.10/site-packages/eth_utils/network.py:61: UserWarning: Network 12611 with name 'Astar zkEVM' does not have a valid ChainId. eth-typing should be updated with the latest networks.
-  networks = initialize_network_objects()
+...
 RariCapital2_1 has one function call with several transfers
 Yearn1 has one function call with several transfers
 Eminence has one function call with several transfers
